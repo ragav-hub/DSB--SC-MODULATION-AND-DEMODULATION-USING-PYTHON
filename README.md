@@ -109,6 +109,8 @@ plt.show()
 <img width="1491" height="1199" alt="image" src="https://github.com/user-attachments/assets/e82b7e6d-45a1-48c0-a007-e1d2a095b6a4" />
 
 
+
+
    __Result__:
 
 Thus, The Double Sideband Suppressed Carrier (DSB-SC) signal in Python (Google Colab) is generated and output is verified successfully.
