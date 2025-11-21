@@ -29,7 +29,7 @@ __Procedure__:
 7) Low-pass filter to recover message
 
 __Program__:
- ```
+ ```c
  import numpy as np
 import matplotlib.pyplot as plt
 
